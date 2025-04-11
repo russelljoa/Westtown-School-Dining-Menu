@@ -1,0 +1,142 @@
+html,body {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  --white: white;
+  --brown: #623B2A;
+  --blue: #548EB5;
+  font-family: 'Trebuchet MS', sans-serif;
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+}
+
+body{
+overflow-x:hidden;
+}
+
+.datecontainer{
+  padding-top: 30px;
+}
+
+.toplabel{
+  
+  color: var(--brown);
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+.header{
+  color:var(--brown);
+}
+.day {
+  background-color: var(--brown);
+  color: white;
+}
+
+.food {
+  background-color: var(--blue);
+  color: white;
+}
+
+table{
+  margin: auto;
+  text-align: center;
+  border: var(--brown);
+  border: 1px black solid;
+  border-radius: 5px;
+
+}
+
+table { 
+    table-layout:fixed;
+    border-collapse: collapse;
+    color: white;
+}
+
+.button{
+    background-color: var(--brown);
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.t{
+  width: 100%;
+  height: auto;
+}
+
+textarea{
+  border: none;
+}
+
+.topday{
+  background-color: var(--brown);
+  color: white;
+  border: black 2px;
+}
+
+.mealtype{
+  background-color: var(--blue);
+  color: white;
+  text-align: left;
+  width: 80px;
+  padding: 10px;
+  border:1px black solid;
+}
+
+.textbox{
+  position: relative;
+  padding: none;
+  border:1px black solid;
+  width: 15ch;
+  height: 15ch;
+}
+
+.textareablock{
+  padding: 2px;
+  height: 85%;
+  resize: none;
+  width: 95%;
+  
+}
+
+.menutitle{
+  color: var(--brown);
+}
+
+.ththing{
+  background-color: var(--blue);
+}
+
+.buttondiv{
+  margin-top: 10px;
+}
+
+.upload{
+  background-color: var(--brown);
+  margin-bottom: 40px;
+  width: fit-content;
+  padding: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: fit-content;
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.5);
+  transition: all 0.2s ease-in-out;
+}
+
+.upload:hover{
+  background-color: var(--blue);
+  box-shadow: 2px 3px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.bad{
+  color:red;
+}

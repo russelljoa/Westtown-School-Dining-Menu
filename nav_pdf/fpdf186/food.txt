@@ -1,0 +1,6 @@
+Breakfast;Eggs;Eggs;Eggs;Eggs;Eggs;Eggs;Eggs
+Snack;Muffins;Muffins;Muffins;Muffins;Muffins;Muffins;Muffins;
+Lunch;Chicken;Chicken;Chicken;Chicken;Chicken;Chicken;Chicken;
+Salad Bar Special;Eggs;Eggs;Eggs;Eggs;Eggs;Eggs;Eggs;
+DIY;Ham;Ham;Ham;Ham;Ham;Ham;Ham;
+Dinner;Gyro bar;Gyro bar;Gyro bar;Gyro bar;Gyro bar;Gyro bar;Gyro bar;
